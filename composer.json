@@ -1,6 +1,6 @@
 {
     "name": "sinevia/php-library-contact-as-a-service",
-    "description": "PHP Library Serverless",
+    "description": "PHP Library Contact As a Service",
     "type": "library",
     "keywords": ["contact", "library", "php", "sinevia"],    
     "homepage": "http://github.com/sinevia/php-library-contact-as-a-service",
