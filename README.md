@@ -1,1 +1,1 @@
-# php-library-contact-as-a-service
+# PHP Library. Contact-as-a-Service
