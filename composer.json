@@ -1,0 +1,21 @@
+{
+    "name": "sinevia/php-library-contact-as-a-service",
+    "description": "PHP Library Serverless",
+    "type": "library",
+    "keywords": ["contact", "library", "php", "sinevia"],    
+    "homepage": "http://github.com/sinevia/php-library-contact-as-a-service",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Milan Lesichkov",
+            "email": "lesichkovm@gmail.com",
+            "homepage": "http://lesichkov.co.uk",
+            "role": "Lead Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/ContactAsAService.php"
+        ]
+    }
+}
